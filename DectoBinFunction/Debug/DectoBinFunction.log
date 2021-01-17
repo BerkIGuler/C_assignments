@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Berkay\source\repos\DectoBinFunction\Source.c(38,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Berkay\source\repos\DectoBinFunction\Source.c(39,23): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Berkay\source\repos\DectoBinFunction\Source.c(37,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Berkay\source\repos\DectoBinFunction\Source.c(50,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  DectoBinFunction.vcxproj -> C:\Users\Berkay\source\repos\DectoBinFunction\Debug\DectoBinFunction.exe

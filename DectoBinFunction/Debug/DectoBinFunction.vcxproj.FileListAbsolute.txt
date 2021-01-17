@@ -1,0 +1,2 @@
+C:\Users\Berkay\source\repos\DectoBinFunction\Debug\DectoBinFunction.exe
+C:\Users\Berkay\source\repos\DectoBinFunction\Debug\DectoBinFunction.pdb

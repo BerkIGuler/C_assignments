@@ -1,0 +1,2 @@
+C:\Users\Berkay\source\repos\ExpressNumberAsSumOfTwoPrimes\Debug\ExpressNumberAsSumOfTwoPrimes.exe
+C:\Users\Berkay\source\repos\ExpressNumberAsSumOfTwoPrimes\Debug\ExpressNumberAsSumOfTwoPrimes.pdb
